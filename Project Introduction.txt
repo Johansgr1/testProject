@@ -1,0 +1,12 @@
+1. LEARNING OBJECTIVES:
+a. Learn about Version Control System
+b. Learn about Git commands
+c. Learn how to commit files for version control
+
+2. WHY:
+This activity will give you practice on self-learning and researching on Software Version Control. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+3. TASKS:
+a. Understand Git commands
+b. Try most common Git commands
+c. Draft a report for your experiment.
