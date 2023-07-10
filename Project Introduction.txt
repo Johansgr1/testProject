@@ -1,3 +1,8 @@
+Johans Grupp Rivera
+300364523
+
+
+
 1. LEARNING OBJECTIVES:
 a. Learn about Version Control System
 b. Learn about Git commands
@@ -11,4 +16,4 @@ a. Understand Git commands
 b. Try most common Git commands
 c. Draft a report for your experiment.
 
-Mistakes
+Mistakesgit 
