@@ -10,3 +10,5 @@ This activity will give you practice on self-learning and researching on Softwar
 a. Understand Git commands
 b. Try most common Git commands
 c. Draft a report for your experiment.
+
+Mistakes
